@@ -1,11 +1,11 @@
-# Hola! Soy Daniel Palacín,futuro desarrollador de Aplicaciones Web.  👋
+## Hola! Soy Daniel Palacín,futuro desarrollador de Aplicaciones Web.  👋
 
-### ¿Dónde me puedes encontrar?
+#### ¿Dónde me puedes encontrar?
 
-  - Sitio Web:
-  - Twitter:
-  - Instagram:
-
+  - Sitio Web: http:///dpalacin.com
+  - Twitter: @dpalacin98
+  - Instagram: @dpalacin98
+  - :email: :
 <!--
 **dpalacin98/dpalacin98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
